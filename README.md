@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DiogoAMLima
 - 👀 I’m interested in programing, codes, work, study, learn... 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python (PyCharm)
 - 💞️ I’m looking to collaborate on codes
 - 📫 How to reach me : diogoamlima@gmail.com
 
