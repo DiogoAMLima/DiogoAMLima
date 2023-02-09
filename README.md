@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DiogoAMLima
 I’m interested in programing, codes, work, study, learn... 
-I’m currently learning Python:
+I’m currently learning Python, front-end, C++,...:
 
 <ul type="square"> 
         <li>Pycharm</li>
@@ -13,6 +13,7 @@ I’m currently learning Python:
         <li>Git and Github</li>
         <li>C</li>
         <li>C++</li>
+        <li>Python</li>
         <li>HTML</li>
         <li>CSS</li>
         <li>DataBase</li>
