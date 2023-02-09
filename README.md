@@ -2,7 +2,7 @@
 I’m interested in programing, codes, work, study, learn... 
 I’m currently learning Python, front-end, C++,...:
 
-<ul type="square"> 
+<ul type="circle"> 
         <li>Pycharm</li>
         <li>Anaconda</li>
         <li>Dev-C++</li>
