@@ -1,6 +1,22 @@
 - 👋 Hi, I’m @DiogoAMLima
-- 👀 I’m interested in programing, codes, work, study, learn... 
-- 🌱 I’m currently learning Python (PyCharm, Anaconda, Dev-C++, VSCODE, Sqlite, MySQL, SQLServer) / Git and Github / C, C++, HTML, CSS, DataBase...
+I’m interested in programing, codes, work, study, learn... 
+I’m currently learning Python:
+
+<ul type="square"> 
+        <li>Pycharm</li>
+        <li>Anaconda</li>
+        <li>Dev-C++</li>
+        <li>VSCODE</li>
+        <li>Sqlite</li>
+        <li>MySQL</li>
+        <li>SQLServer</li>
+        <li>Git and Github</li>
+        <li>C</li>
+        <li>C++</li>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>DataBase</li>
+ </ul>
 
 <div align="center">
   <a href="https://github.com/DiogoAMLima">
