@@ -16,7 +16,8 @@ I’m currently learning Python, front-end, C++,...:
         <li>Python</li>
         <li>HTML</li>
         <li>CSS</li>
-        <li>DataBase</li>
+        <li>Data Base</li>
+        <li>Data Science</li>
  </ul>
 
 <div align="center">
